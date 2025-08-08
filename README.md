@@ -226,4 +226,13 @@ Master the art of medieval warfare, build an unstoppable kingdom, and claim your
 
 Ready to forge your destiny? Your kingdom awaits on the Somnia testnet.
 
+## Future Implementions 
+
+*	Player vs player battles
+*	More building types
+*	Achievement system
+*	Leaderboards
+
 ## NOTE: Some of the Features are not yet implemented and will be done in Future ......
+
+
